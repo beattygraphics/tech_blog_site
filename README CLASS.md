@@ -1,2 +1,26 @@
-# tech_blog_site
-A CMS-style blog site where articles can be published, blog posted, along with thoughts and opinions
+# Tech Blog Site
+
+## Description
+A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+
+## Screenshot
+
+
+
+
+## Technologies
+JS
+Node.js
+Handlebars
+Express
+dotenv
+MySQL
+Sequalize
+
+
+## Links
+
+
+## Contributions
+
+
